@@ -5,4 +5,5 @@ At Alif Bank, I've gained invaluable experience, working with a wide array of to
 
 I'm passionate about programming and dedicated to continuous learning. I believe in the power of coding to create innovative solutions and drive positive change. I'm excited about the future of technology and eager to contribute my skills to make a difference.
 
-# Warm regards, Amirjon
+Warm regards,
+Amirjon
