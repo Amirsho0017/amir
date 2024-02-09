@@ -1,5 +1,5 @@
 # Hiiiii there 
-I'm Amirjon. I'm a 20-year-old programmer from Tajikistan. My coding journey began when I was 18, and I delved into algorithms, solving problems from Abramysns book. In May 2022, I graduated from PHP Coding Academy, a significant milestone in my learning path. Shortly after, I received an offer from Alif Bank, where I've been working since June 2022.
+I'm Amirjon. I'm a 20-year-old programmer from Tajikistan. My coding journey began when I was 18, and I delved into algorithms, solving problems from Abramyan's book. In May 2022, I graduated from PHP Coding Academy, a significant milestone in my learning path. Shortly after, I received an offer from Alif Bank, where I've been working since June 2022.
 
 At Alif Bank, I've gained invaluable experience, working with a wide array of tools such as PHP, Laravel, Postman, API, GitHub, TypeScript, React, Python, Django, FastAPI, Postgres, MySQL, Redis, and more. My primary stack revolves around PHP with the Laravel Framework. This journey has not only deepened my technical expertise but also honed my problem-solving skills and ability to adapt to various technologies.
 
